@@ -11,12 +11,12 @@ A central theme is **decision-making**. We analyze how politicians, bureaucrats,
 
 Because research on the politics of public policy is interdisciplinary, we read both foundational and cutting-edge work from political science, economics, sociology, public law, and public administration.
 
-## Course Variants
+## Course Versions
 
 | Semester | Version | Status |
 |----------|---------|--------|
-| [Spring 2026](courses/spring-2026.qmd) | Honors (PLCY 220H) | Current |
 | [Fall 2026](courses/fall-2026-doctoral.qmd) | Doctoral Seminar | Upcoming |
+| [Spring 2026](courses/spring-2026.qmd) | Honors (PLCY 220H) | Current |
 
 ## Instructor
 
