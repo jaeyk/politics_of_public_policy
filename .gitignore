@@ -5,6 +5,7 @@
 
 /.quarto/
 /_site/
+/docs/
 
 # macOS
 .DS_Store
