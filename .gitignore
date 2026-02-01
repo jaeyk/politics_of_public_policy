@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+/_site/
+
+# macOS
+.DS_Store
+
+# Misc folder with source files
+misc/
+
+# Editor files
+*.swp
+*.swo
+*~

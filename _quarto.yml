@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Politics of Public Policy"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: courses.qmd
+        text: Courses
+      - href: readings.qmd
+        text: Readings
+    right:
+      - icon: person-circle
+        href: https://jaeyk.github.io/
+        text: Instructor
+
+  page-footer:
+    center: "&copy; Jae Yeon Kim"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

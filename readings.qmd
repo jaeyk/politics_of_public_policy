@@ -1,0 +1,124 @@
+---
+title: "Shared Readings"
+subtitle: "Core readings used across course versions"
+---
+
+This page contains readings shared across all versions of the course. Individual course pages may have additional or modified readings.
+
+---
+
+## Part One: Politics, Public Policy, and Democracy
+
+### Policy-centric Politics
+
+- Brady, David. 2023. "Poverty, Not the Poor." *Science Advances* 9 (34).
+- Schattschneider, E. E. 1957. "Intensity, Visibility, Direction, and Scope." *American Political Science Review* 51(4): 933-942.
+- Hacker, Jacob S., and Paul Pierson. 2014. "After the 'Master Theory': Downs, Schattschneider, and the Rebirth of Policy-Focused Analysis." *Perspectives on Politics* 12 (3): 643-62.
+- Hertel-Fernandez, Alexander, Jacob S. Hacker, Paul Pierson, and Kathleen Thelen. 2022. "The American Political Economy: A Framework and an Agenda for Research." In: *The American Political Economy*. Cambridge University Press.
+
+### Politics of Policy Implementation
+
+- Mangla, Akshay, and Jae Yeon Kim, "Reconstructing Implementation as Politics," Working Paper.
+- Wildavsky, Aaron. 1973. "If Planning Is Everything, Maybe It's Nothing." *Policy Sciences* 4 (2): 127-153.
+- Lipsky, Michael. 1971. "Street-Level Bureaucracy and the Analysis of Urban Reform." *Urban Affairs Quarterly* 6 (4): 391-409.
+- Simon, Herbert A. 1990. "Invariants of Human Behavior." *Annual Review of Psychology* 41(1): 1-20.
+
+### Political Legitimacy and Policy Delivery
+
+- Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53 (1): 69-105.
+- Levi, Margaret. 2022. "Trustworthy Government: The Obligations of Government and the Responsibilities of the Governed." *Daedalus* 151 (Fall): 215-233.
+- Lerman, Amy E. 2020. "The Public Reputation as a Self-Fulfilling Prophecy." In: *Good Enough for Government Work*. University of Chicago Press.
+- Fukuyama, Francis, Christopher Dann, and Beatriz Magaloni. 2025. "Delivering for Democracy: Why Results Matter." *Journal of Democracy* 36 (2): 5-19.
+
+---
+
+## Part Two: What Is the State, How It Works, and Why It Matters
+
+### State Capacity
+
+- Grzymala-Busse, Anna. 2024. "Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation." *American Political Science Review* 118 (1): 88-107.
+- Kapur, Devesh. 2020. "Why Does the Indian State Both Fail and Succeed?" *Journal of Economic Perspectives* 34(1): 31-54.
+- Lee, Melissa M., and Nan Zhang. 2017. "Legibility and the Informational Foundations of State Capacity." *The Journal of Politics* 79 (1): 118-132.
+- Zhang, Simone, and Rebecca A. Johnson. 2023. "Hierarchies in the Decentralized Welfare State." *American Sociological Review* 88 (1): 114-153.
+
+### Institutional Variations
+
+- Tsebelis, George. 2000. "Veto Players and Institutional Analysis." *Governance* 13 (4): 441-474.
+- Lacey, Nicola, and David Soskice. 2015. "Crime, Punishment, and Segregation in the United States." *Punishment & Society* 17 (4): 454-481.
+- Anzia, Sarah F. 2022. "Interest Groups and Public Policy in US Local Government." In *Local Interests*. University of Chicago Press.
+- Grumbach, Jacob, and Jamila Michener. 2022. "American Federalism, Political Inequality, and Democratic Erosion." *The ANNALS* 699 (1): 143-155.
+
+### Bureaucratic Performance
+
+- Ang, Yuen Yuen. 2017. "Beyond Weber: Conceptualizing an Alternative Ideal Type of Bureaucracy in Developing Contexts." *Regulation & Governance* 11 (3): 282-298.
+- Williams, Martin J. 2021. "Beyond State Capacity: Bureaucratic Performance, Policy Implementation and Reform." *Journal of Institutional Economics* 17(2): 339-57.
+- Auerbach, Adam Michael, Shikhar Singh, and Tariq Thachil. 2025. "Who Knows How To Govern?" *American Political Science Review* 119 (2): 708-726.
+- Carpenter, Daniel P. 2000. "State Building Through Reputation Building." *Studies in American Political Development* 14 (2): 121-155.
+
+### Administrative Burden
+
+- Moynihan, Donald, Pamela Herd, and Hope Harvey. 2015. "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions." *Journal of Public Administration Research and Theory* 25 (1): 43-69.
+- Mettler, Suzanne. 2010. "Reconstituting the Submerged State." *Perspectives on Politics* 8(3): 803-824.
+- Soss, Joe, and Vesla Weaver. 2017. "Police Are Our Government." *Annual Review of Political Science* 20: 565-591.
+- Michener, Jamila, Mallory SoRelle, and Chloe Thurston. 2022. "From the Margins To the Center." *Perspectives on Politics* 20 (1): 154-169.
+
+---
+
+## Part Three: State, Business, and Society
+
+### The Contracting State
+
+- Kettl, Donald F. 1988. "Performance and Accountability: The Challenge of Government by Proxy." *The American Review of Public Administration* 18 (1): 9-28.
+- Salamon, Lester M. 1987. "Of Market Failure, Voluntary Failure, and Third-Party Government." *Journal of Voluntary Action Research* 16(1-2): 29-49.
+- Dooling, Bridget C. E., and Rachel A. Potter. 2022. "Rulemaking by Contract." *Administrative Law Review* 74: 703.
+- James, Oliver, Sebastian Jilke, Carolyn Petersen, and Steven Van de Walle. 2016. "Citizens' Blame of Politicians for Public Service Failure." *Public Administration Review* 76 (1): 83-93.
+
+### State and Social Embeddedness
+
+- Collier, Ruth Berins, and David Collier. 1979. "Inducements Versus Constraints: Disaggregating Corporatism." *American Political Science Review* 73 (4): 967-986.
+- Crawford, Sue E., and Elinor Ostrom. 1995. "A Grammar of Institutions." *American Political Science Review* 89 (3): 582-600.
+- Mangla, Akshay. 2022. "Bureaucratic Norms: A Theory of Implementation." In: *Making Bureaucracy Work*. Cambridge University Press.
+- Xu, Alice. 2024. "Segregation and the Spatial Externalities of Inequality." *American Political Science Review* 118 (3): 1431-1448.
+
+---
+
+## Part Four: Political Strategies
+
+### Credit-Taking and Blame-Shifting
+
+- Holland, Alisha C. 2016. "Forbearance." *American Political Science Review* 110(2): 232-246.
+- Dasgupta, Aditya, and Devesh Kapur. 2020. "The Political Economy of Bureaucratic Overload." *American Political Science Review* 114 (4): 1316-1334.
+- Toral, Guillermo. 2024. "Turnover: How Lame-duck Governments Disrupt the Bureaucracy." *The Journal of Politics* 86 (4): 1348-1367.
+- Silva, Fernando, Irene Bloemraad, and Kim Voss. 2025. "Frame Backfire." *American Sociological Review* 90 (3): 349-386.
+
+### Civil Society and Collective Action
+
+- Cohen, Joshua, and Archon Fung. 2004. "Radical Democracy." *Swiss Journal of Political Science* 10 (4): 23-34.
+- de Vries, Milan, Jae Yeon Kim, and Hahrie Han. 2024. "The Unequal Landscape of Civic Opportunity in America." *Nature Human Behaviour* 8 (2): 256-263.
+- Parthasarathy, Ramya, Vijayendra Rao, and Nethra Palaniswamy. 2019. "Deliberative Democracy in an Unequal World." *American Political Science Review* 113 (3): 623-640.
+- Carpenter, Daniel. 2025. "Petitioning as Governance." *Journal of the Early Republic* 45(3): 417-428.
+
+---
+
+## Part Five: Current Debates and Research Frontiers
+
+### Challenges to the Administrative State
+
+- Coglianese, Cary. 2022. "Administrative Law: Governing Economic and Social Governance." *Oxford Research Encyclopedia*.
+- Bagley, Nicholas. 2019. "The Procedure Fetish." *Michigan Law Review* 118(3): 345-401.
+- Howell, William G., and Terry M. Moe. 2023. "The Strongman Presidency and the Two Logics of Presidential Power." *Presidential Studies Quarterly* 53 (2): 145-168.
+- Carpenter, Daniel, Angelo Dagonel, Devin Judge-Lord, Christopher Kenny, Brian Libgober, Steven Rashin, Jacob Waggoner, and Susan Webb Yackee. 2022. "Inequality in Administrative Democracy." *SSRN*.
+
+### AI, Politics, and Society
+
+- Engstrom, David Freeman, and Daniel E. Ho. 2020. "Algorithmic Accountability in the Administrative State." *Yale Journal on Regulation* 37: 800-854.
+- Alon-Barkat, Saar, Madalina Busuioc, Kayla Schwoerer, and Kristina S. Weißmüller. 2025. "Algorithmic Discrimination in Public Service Provision." *Journal of Public Administration Research and Theory* 35 (4): 469-488.
+- Raviv, Shir. Forthcoming. "When Do Citizens Resist the Use of AI Algorithms in Public Policy?" *Journal of Politics*.
+- Narayanan, Arvind, and Sayash Kapoor. 2025. "AI as Normal Technology." *Knight First Amendment Institute*.
+
+### Research Methods
+
+- Burawoy, Michael. 1998. "The Extended Case Method." *Sociological Theory* 16 (1): 4-33.
+- Rao, Vijayendra. 2022. "Can Economics Become More Reflexive?" *World Bank Policy Research Working Paper* 9918.
+- Bergman, Peter, Raj Chetty, Stefanie DeLuca, Nathaniel Hendren, Lawrence F. Katz, and Christopher Palmer. 2024. "Creating Moves to Opportunity." *American Economic Review* 114 (5): 1281-1337.
+- Kim, Jae Yeon, Pamela Herd, Sebastian Jilke, Donald Moynihan, and Kerry Rodden. 2025. "Administrative Checkpoints, Burdens, and Human-Centered Design." *Journal of Policy Analysis and Management*.

@@ -1,0 +1,26 @@
+---
+title: "Politics of Public Policy"
+subtitle: "Understanding Policy Implementation as a Political Process"
+---
+
+## About This Course
+
+This course examines policy implementation as a political process shaped by power, institutions, organized interests, and social groups. It explores how states build capacity and deliver policies, how bureaucracies perform, how citizens experience government, and how those experiences feed back into politics and public policy.
+
+A central theme is **decision-making**. We analyze how politicians, bureaucrats, and citizens make *political* choices in light of their institutional environments, objectives, information, incentives, and constraints.
+
+Because research on the politics of public policy is interdisciplinary, we read both foundational and cutting-edge work from political science, economics, sociology, public law, and public administration.
+
+## Course Variants
+
+| Semester | Version | Status |
+|----------|---------|--------|
+| [Spring 2026](courses/spring-2026.qmd) | Honors (PLCY 220H) | Current |
+| [Fall 2026](courses/fall-2026-doctoral.qmd) | Doctoral Seminar | Upcoming |
+
+## Instructor
+
+**[Jae Yeon Kim](https://jaeyk.github.io/)**
+
+- Email: [jaekim@unc.edu](mailto:jaekim@unc.edu)
+- Office Hours: [By appointment](https://calendly.com/jaekim-unc/30min)

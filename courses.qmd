@@ -1,0 +1,19 @@
+---
+title: "Course Offerings"
+---
+
+## Current Courses
+
+### [Spring 2026 - Honors](courses/spring-2026.qmd)
+
+**PLCY 220H Politics of Public Policy**
+
+---
+
+## Upcoming Courses
+
+### [Fall 2026 - Doctoral Seminar](courses/fall-2026-doctoral.qmd)
+
+**Politics of Public Policy**
+
+TBD

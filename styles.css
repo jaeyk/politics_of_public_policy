@@ -1,0 +1,41 @@
+/* Custom styles for Politics of Public Policy course website */
+
+/* Improve table readability */
+table {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+th {
+  background-color: #f8f9fa;
+}
+
+/* Style for callouts */
+.callout {
+  margin: 1.5rem 0;
+}
+
+/* Embedded form styling */
+iframe {
+  border: 1px solid #dee2e6;
+  border-radius: 0.375rem;
+}
+
+/* Footer styling */
+.page-footer {
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid #dee2e6;
+}
+
+/* Reading list styling */
+.reading-item {
+  margin-bottom: 0.75rem;
+}
+
+/* Schedule week headers */
+h4 {
+  margin-top: 1.5rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid #dee2e6;
+}
