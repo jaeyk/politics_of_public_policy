@@ -16,6 +16,10 @@ This page contains readings shared across all versions of the course. Individual
 - Hacker, Jacob S., and Paul Pierson. 2014. "After the 'Master Theory': Downs, Schattschneider, and the Rebirth of Policy-Focused Analysis." *Perspectives on Politics* 12 (3): 643-62.
 - Hertel-Fernandez, Alexander, Jacob S. Hacker, Paul Pierson, and Kathleen Thelen. 2022. "The American Political Economy: A Framework and an Agenda for Research." In: *The American Political Economy*. Cambridge University Press.
 
+**Additional resources**
+
+- Paul Pierson and Kathleen Thelen. Rethinking American Political Economy. Public lecture hosted by the LSE US Centre (2021). [YouTube](https://www.youtube.com/watch?v=lPAU8XBNu3A) | [Podcast](https://www.lse.ac.uk/lse-player?id=361244c3-24ae-41cb-8854-37177794a330)
+
 ### Politics of Policy Implementation
 
 - Mangla, Akshay, and Jae Yeon Kim, "Reconstructing Implementation as Politics," Working Paper.
@@ -23,12 +27,20 @@ This page contains readings shared across all versions of the course. Individual
 - Lipsky, Michael. 1971. "Street-Level Bureaucracy and the Analysis of Urban Reform." *Urban Affairs Quarterly* 6 (4): 391-409.
 - Simon, Herbert A. 1990. "Invariants of Human Behavior." *Annual Review of Psychology* 41(1): 1-20.
 
+**Additional resources**
+
+- Ezra Klein's interview with Jennifer Pahlka. "The Book I Wish Every Policymaker Would Read." *The Ezra Klein Show*, June 6, 2023. [YouTube](https://www.youtube.com/watch?v=hVXUYQ84Ww4) | [Podcast](https://podcasts.apple.com/us/podcast/the-book-i-wish-every-policymaker-would-read/id1548604447?i=1000615839464)
+
 ### Political Legitimacy and Policy Delivery
 
 - Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53 (1): 69-105.
 - Levi, Margaret. 2022. "Trustworthy Government: The Obligations of Government and the Responsibilities of the Governed." *Daedalus* 151 (Fall): 215-233.
 - Lerman, Amy E. 2020. "The Public Reputation as a Self-Fulfilling Prophecy." In: *Good Enough for Government Work*. University of Chicago Press.
 - Fukuyama, Francis, Christopher Dann, and Beatriz Magaloni. 2025. "Delivering for Democracy: Why Results Matter." *Journal of Democracy* 36 (2): 5-19.
+
+**Additional resources**
+
+- Margaret Levi. Trustworthy Government and Legitimating Beliefs. Public lecture hosted by the TiGRE Webinar series (2020). [YouTube](https://www.youtube.com/watch?v=iftJQCJ_7b8&t=355s)
 
 ---
 
@@ -41,12 +53,20 @@ This page contains readings shared across all versions of the course. Individual
 - Lee, Melissa M., and Nan Zhang. 2017. "Legibility and the Informational Foundations of State Capacity." *The Journal of Politics* 79 (1): 118-132.
 - Zhang, Simone, and Rebecca A. Johnson. 2023. "Hierarchies in the Decentralized Welfare State." *American Sociological Review* 88 (1): 114-153.
 
+**Additional resources**
+
+- Yascha Mounk's interview with James Scott. "The Perils of State Power." *Persuasion*, September 3, 2024. [Podcast](https://www.persuasion.community/p/scott)
+
 ### Institutional Variations
 
 - Tsebelis, George. 2000. "Veto Players and Institutional Analysis." *Governance* 13 (4): 441-474.
 - Lacey, Nicola, and David Soskice. 2015. "Crime, Punishment, and Segregation in the United States." *Punishment & Society* 17 (4): 454-481.
 - Anzia, Sarah F. 2022. "Interest Groups and Public Policy in US Local Government." In *Local Interests*. University of Chicago Press.
 - Grumbach, Jacob, and Jamila Michener. 2022. "American Federalism, Political Inequality, and Democratic Erosion." *The ANNALS* 699 (1): 143-155.
+
+**Additional resources**
+
+- Jamila Michener. Fragmented Democracy: Medicaid Federalism and Unequal Politics. Book talk hosted by Cornell's Mann Library (2019). [YouTube](https://www.youtube.com/watch?v=Gye6y1U3GUI)
 
 ### Bureaucratic Performance
 
@@ -55,12 +75,20 @@ This page contains readings shared across all versions of the course. Individual
 - Auerbach, Adam Michael, Shikhar Singh, and Tariq Thachil. 2025. "Who Knows How To Govern?" *American Political Science Review* 119 (2): 708-726.
 - Carpenter, Daniel P. 2000. "State Building Through Reputation Building." *Studies in American Political Development* 14 (2): 121-155.
 
+**Additional resources**
+
+- Guo Xu. Bureaucracy. Public lecture hosted by VoxDev (2023). [YouTube](https://www.youtube.com/watch?v=O6SaoZ9oELw)
+
 ### Administrative Burden
 
 - Moynihan, Donald, Pamela Herd, and Hope Harvey. 2015. "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen-State Interactions." *Journal of Public Administration Research and Theory* 25 (1): 43-69.
 - Mettler, Suzanne. 2010. "Reconstituting the Submerged State." *Perspectives on Politics* 8(3): 803-824.
 - Soss, Joe, and Vesla Weaver. 2017. "Police Are Our Government." *Annual Review of Political Science* 20: 565-591.
 - Michener, Jamila, Mallory SoRelle, and Chloe Thurston. 2022. "From the Margins To the Center." *Perspectives on Politics* 20 (1): 154-169.
+
+**Additional resources**
+
+- Pamela Herd and Donald Moynihan. Administrative Burden: Policymaking by Other Means. Public lecture hosted by the Blavatnik School of Government, University of Oxford (2019). [YouTube](https://www.youtube.com/watch?v=-8soYdrlukM)
 
 ---
 
@@ -73,12 +101,20 @@ This page contains readings shared across all versions of the course. Individual
 - Dooling, Bridget C. E., and Rachel A. Potter. 2022. "Rulemaking by Contract." *Administrative Law Review* 74: 703.
 - James, Oliver, Sebastian Jilke, Carolyn Petersen, and Steven Van de Walle. 2016. "Citizens' Blame of Politicians for Public Service Failure." *Public Administration Review* 76 (1): 83-93.
 
+**Additional resources**
+
+- Paul Light. The Government-Industrial Complex. Public lecture hosted by USC Price (2019). [YouTube](https://www.youtube.com/watch?v=zBiqFp4Ure8)
+
 ### State and Social Embeddedness
 
 - Collier, Ruth Berins, and David Collier. 1979. "Inducements Versus Constraints: Disaggregating Corporatism." *American Political Science Review* 73 (4): 967-986.
 - Crawford, Sue E., and Elinor Ostrom. 1995. "A Grammar of Institutions." *American Political Science Review* 89 (3): 582-600.
 - Mangla, Akshay. 2022. "Bureaucratic Norms: A Theory of Implementation." In: *Making Bureaucracy Work*. Cambridge University Press.
 - Xu, Alice. 2024. "Segregation and the Spatial Externalities of Inequality." *American Political Science Review* 118 (3): 1431-1448.
+
+**Additional resources**
+
+- Akshay Mangla. Making Bureaucracy Work. Public lecture hosted by Skoll Centre for Social Entrepreneurship (2023). [YouTube](https://www.youtube.com/watch?v=mBkhe3DCqVc)
 
 ---
 
@@ -91,12 +127,20 @@ This page contains readings shared across all versions of the course. Individual
 - Toral, Guillermo. 2024. "Turnover: How Lame-duck Governments Disrupt the Bureaucracy." *The Journal of Politics* 86 (4): 1348-1367.
 - Silva, Fernando, Irene Bloemraad, and Kim Voss. 2025. "Frame Backfire." *American Sociological Review* 90 (3): 349-386.
 
+**Additional resources**
+
+- Alisha Holland. Creative Construction: The Rise and Stall of Mass Infrastructure in Latin America. Public lecture hosted by the Hinkley Institute of Politics (2021). [YouTube](https://www.youtube.com/watch?v=lJgrKfa0kvo)
+
 ### Civil Society and Collective Action
 
 - Cohen, Joshua, and Archon Fung. 2004. "Radical Democracy." *Swiss Journal of Political Science* 10 (4): 23-34.
 - de Vries, Milan, Jae Yeon Kim, and Hahrie Han. 2024. "The Unequal Landscape of Civic Opportunity in America." *Nature Human Behaviour* 8 (2): 256-263.
 - Parthasarathy, Ramya, Vijayendra Rao, and Nethra Palaniswamy. 2019. "Deliberative Democracy in an Unequal World." *American Political Science Review* 113 (3): 623-640.
 - Carpenter, Daniel. 2025. "Petitioning as Governance." *Journal of the Early Republic* 45(3): 417-428.
+
+**Additional resources**
+
+- Hahrie Han. Undivided: The Quest for Racial Solidarity in an American Church. Public lecture hosted by Amos Fortune Forum (2025). [YouTube](https://www.youtube.com/watch?v=CwjyQqNfGyU)
 
 ---
 
@@ -109,6 +153,10 @@ This page contains readings shared across all versions of the course. Individual
 - Howell, William G., and Terry M. Moe. 2023. "The Strongman Presidency and the Two Logics of Presidential Power." *Presidential Studies Quarterly* 53 (2): 145-168.
 - Carpenter, Daniel, Angelo Dagonel, Devin Judge-Lord, Christopher Kenny, Brian Libgober, Steven Rashin, Jacob Waggoner, and Susan Webb Yackee. 2022. "Inequality in Administrative Democracy." *SSRN*.
 
+**Additional resources**
+
+- Richard Hanania's interview with Nicholas Bagley. "Administrative Procedure and the Common Good." Center for Science in the Public Interest, February 27, 2023. [YouTube](https://www.youtube.com/watch?v=EnKcYz0C-iY)
+
 ### AI, Politics, and Society
 
 - Engstrom, David Freeman, and Daniel E. Ho. 2020. "Algorithmic Accountability in the Administrative State." *Yale Journal on Regulation* 37: 800-854.
@@ -116,9 +164,17 @@ This page contains readings shared across all versions of the course. Individual
 - Raviv, Shir. Forthcoming. "When Do Citizens Resist the Use of AI Algorithms in Public Policy?" *Journal of Politics*.
 - Narayanan, Arvind, and Sayash Kapoor. 2025. "AI as Normal Technology." *Knight First Amendment Institute*.
 
+**Additional resources**
+
+- Daron Acemoglu. Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity. Public lecture hosted by the Becker Friedman Institute for Research in Economics, University of Chicago. [YouTube](https://www.youtube.com/watch?v=4wpg_qr3-hY)
+
 ### Research Methods
 
 - Burawoy, Michael. 1998. "The Extended Case Method." *Sociological Theory* 16 (1): 4-33.
 - Rao, Vijayendra. 2022. "Can Economics Become More Reflexive?" *World Bank Policy Research Working Paper* 9918.
 - Bergman, Peter, Raj Chetty, Stefanie DeLuca, Nathaniel Hendren, Lawrence F. Katz, and Christopher Palmer. 2024. "Creating Moves to Opportunity." *American Economic Review* 114 (5): 1281-1337.
 - Kim, Jae Yeon, Pamela Herd, Sebastian Jilke, Donald Moynihan, and Kerry Rodden. 2025. "Administrative Checkpoints, Burdens, and Human-Centered Design." *Journal of Policy Analysis and Management*.
+
+**Additional resources**
+
+- Vijayendra Rao. Policy for the People. Public lecture hosted by the Development Research Group, World Bank (2025). [YouTube](https://www.youtube.com/watch?v=_UzbwmOL80o&t=697s)
