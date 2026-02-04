@@ -12,6 +12,8 @@ website:
         text: Courses
       - href: readings.qmd
         text: Readings
+      - href: grade-calculator.qmd
+        text: Grade Calculator
     right:
       - icon: person-circle
         href: https://jaeyk.github.io/

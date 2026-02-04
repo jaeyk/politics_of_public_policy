@@ -1,0 +1,127 @@
+---
+title: "Grade calculator"
+format: html
+---
+
+## Honors version 
+
+```{=html}
+<div id="gradecalc" style="max-width: 760px;">
+  <p>
+    Select a mark for each component. This uses your syllabus conversion:
+    <strong>Check+ = 95</strong>, <strong>Check = 85</strong>, <strong>Check− = 75</strong>, <strong>No Credit = 0</strong>.
+  </p>
+
+  <div id="rows"></div>
+
+  <hr/>
+
+  <p style="font-size: 1.1rem;">
+    <strong>Final numeric average:</strong> <span id="finalAvg">–</span><br/>
+    <strong>Letter grade:</strong> <span id="finalLetter">–</span>
+  </p>
+
+  <details>
+    <summary>Show weighting math</summary>
+    <pre id="mathBreakdown" style="white-space: pre-wrap;"></pre>
+  </details>
+</div>
+
+<script>
+(function() {
+  const components = [
+    { key: "Participation", label: "Participation (in-class discussions, attendance)", w: 0.10 },
+    { key: "Topic", label: "Statement of research topic", w: 0.10 },
+    { key: "ImplDraft", label: "Draft implementation problem section", w: 0.10 },
+    { key: "PolDraft", label: "Draft political analysis section", w: 0.10 },
+    { key: "DraftPeer", label: "Draft paper for peer review", w: 0.20 },
+    { key: "PeerReview", label: "Peer review of another draft", w: 0.10 },
+    { key: "Final", label: "Final paper + response letter", w: 0.30 }
+  ];
+
+  const markToScore = {
+    "Check +": 95,
+    "Check": 85,
+    "Check −": 75,
+    "No Credit": 0
+  };
+
+  function letterGrade(avg) {
+    if (avg >= 94) return "A";
+    if (avg >= 90) return "A-";
+    if (avg >= 87) return "B+";
+    if (avg >= 83) return "B";
+    if (avg >= 80) return "B-";
+    if (avg >= 77) return "C+";
+    if (avg >= 73) return "C";
+    if (avg >= 70) return "C-";
+    if (avg >= 67) return "D+";
+    if (avg >= 60) return "D";
+    return "F";
+  }
+
+  const rowsDiv = document.getElementById("rows");
+
+  function makeSelect(id) {
+    const sel = document.createElement("select");
+    sel.id = id;
+    sel.style.minWidth = "140px";
+
+    const opts = ["Check +", "Check", "Check −", "No Credit"];
+    for (const o of opts) {
+      const opt = document.createElement("option");
+      opt.value = o;
+      opt.textContent = o;
+      sel.appendChild(opt);
+    }
+    sel.value = "Check"; // sensible default
+    return sel;
+  }
+
+  // Render rows
+  for (const c of components) {
+    const row = document.createElement("div");
+    row.style.display = "grid";
+    row.style.gridTemplateColumns = "1fr auto auto";
+    row.style.gap = "12px";
+    row.style.alignItems = "center";
+    row.style.margin = "8px 0";
+
+    const label = document.createElement("div");
+    label.textContent = c.label;
+
+    const weight = document.createElement("div");
+    weight.textContent = `${Math.round(c.w * 100)}%`;
+    weight.style.opacity = "0.8";
+
+    const sel = makeSelect(`sel_${c.key}`);
+    sel.addEventListener("change", compute);
+
+    row.appendChild(label);
+    row.appendChild(weight);
+    row.appendChild(sel);
+
+    rowsDiv.appendChild(row);
+  }
+
+  function compute() {
+    let avg = 0;
+    const lines = [];
+    for (const c of components) {
+      const mark = document.getElementById(`sel_${c.key}`).value;
+      const score = markToScore[mark];
+      const contrib = c.w * score;
+      avg += contrib;
+      lines.push(`${c.label}: ${mark} (${score}) × ${Math.round(c.w*100)}% = ${contrib.toFixed(2)}`);
+    }
+
+    document.getElementById("finalAvg").textContent = avg.toFixed(2);
+    document.getElementById("finalLetter").textContent = letterGrade(avg);
+    document.getElementById("mathBreakdown").textContent = lines.join("\n");
+  }
+
+  // initial compute
+  compute();
+})();
+</script>
+```
