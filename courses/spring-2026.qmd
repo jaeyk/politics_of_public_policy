@@ -77,7 +77,7 @@ Identify a real policy implementation problem that involves a political challeng
 
 As the policy entrepreneur assigned to this case, analyze why the policy is failing or producing uneven outcomes and develop solutions grounded in political and institutional analysis that you can present to your client.
 
-This is a brief proposal of no more than 5-6 pages. You will further develop and refine the idea later when you write the full research paper.
+This is a brief proposal of no more than 5–6 pages. At this stage, the goal is to identify a promising policy implementation problem rather than to fully solve it. You should expect to further develop, narrow, and refine your core question, scope, and analytic focus over the course of the semester as you receive feedback and complete the in-class exercises, culminating in the final research paper.
 
 You may work individually or in a group of three to four students, ideally with overlapping interests and complementary skills.
 
@@ -88,6 +88,8 @@ You will submit the implementation and political analysis sections separately an
 You will then receive individual feedback from your peers, and finally receive my feedback on the final paper that integrates both sections.
 
 Peer review is part of the assignment for two reasons. First, for innovation, receiving critical feedback is as important as generating creative ideas (see [Jon Bendor's interview](https://www.gsb.stanford.edu/insights/jonathan-bendor-why-criticism-good-innovation)). You want new ideas but also need a way to sort good ones from bad ones. Second, it is often easier to develop your tastes by critiquing someone else's work than your own.
+
+As part of developing these sections, you will complete three in-class exercises. These exercises are not graded and are designed to provide concrete feedback. First, you will deliver a short elevator pitch to clarify your core question, policy domain, and analytic focus. Second, you will participate in a chalkboard exercise that maps the implementation journey, tracing both the citizen experience and the agency perspective. Third, you will complete a second chalkboard exercise that maps the political landscape, including key actors, power relationships, and points of leverage from the standpoint of a policy entrepreneur. These exercises are intended to help you refine your analysis before writing and are directly tied to the sections you submit.
 
 **a. Implementation Problem Section**
 
@@ -292,7 +294,7 @@ Yascha Mounk's interview with James Scott. "The Perils of State Power." *Persuas
 
 #### Week 6: Institutional Variations and Outcomes
 
-**Tue Feb 10, Thu Feb 12**
+**Tue Feb 10 (elevator pitch), Thu Feb 12**
 
 - Tsebelis, George. 2000. "Veto Players and Institutional Analysis." *Governance* 13 (4): 441--474.
 - Lacey, Nicola, and David Soskice. 2015. "Crime, Punishment, and Segregation in the United States: The Paradox of Local Democracy." *Punishment & Society* 17 (4): 454--481.
@@ -307,7 +309,7 @@ Jamila Michener. *Fragmented Democracy: Medicaid Federalism and Unequal Politics
 
 #### Week 7: Bureaucratic Performance, Expertise, and Reputation
 
-**Tue Feb 17, Thu Feb 19 (implementation analysis due)**
+**Tue Feb 17 (implementation analysis chalkboard exercise), Thu Feb 19 (implementation analysis due)**
 
 - Ang, Yuen Yuen. 2017. "Beyond Weber: Conceptualizing an Alternative Ideal Type of Bureaucracy in Developing Contexts." *Regulation & Governance* 11 (3): 282--298.
 - Williams, Martin J. 2021. "Beyond State Capacity: Bureaucratic Performance, Policy Implementation and Reform." *Journal of Institutional Economics* 17(2): 339--57.
@@ -322,7 +324,7 @@ Guo Xu. *Bureaucracy*. Public lecture hosted by VoxDev (2023).
 
 #### Week 8: Administrative Burden and Policy Feedback
 
-**Tue Feb 24, Thu Feb 26**
+**Tue Feb 24, Thu Feb 26 (political analysis chalkboard exercise)**
 
 - Moynihan, Donald, Pamela Herd, and Hope Harvey. 2015. "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen--State Interactions." *Journal of Public Administration Research and Theory* 25 (1): 43--69.
 - Mettler, Suzanne. 2010. "Reconstituting the Submerged State: The Challenges of Social Policy Reform in the Obama Era." *Perspectives on Politics* 8(3):803-824.
