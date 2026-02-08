@@ -1,0 +1,13 @@
+format:
+  html:
+    toc: true
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=1in
+    fontsize: 11pt
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+format-links:
+  - pdf

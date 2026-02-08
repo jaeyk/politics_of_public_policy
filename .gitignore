@@ -17,3 +17,5 @@ misc/
 *.swp
 *.swo
 *~
+
+**/*.quarto_ipynb
