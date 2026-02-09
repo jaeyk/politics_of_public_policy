@@ -16,7 +16,7 @@ Because research on the politics of public policy is interdisciplinary, we read 
 | Semester | Version | Status | Enrollment |
 |----------|---------|--------|------------|
 | [Fall 2026](courses/fall-2026-doctoral.qmd) | Doctoral Seminar | Upcoming | — |
-| [Spring 2026](courses/spring-2026.qmd) | Honors Seminar (PLCY 220H) | Current | 20 |
+| [Spring 2026](courses/spring-2026.qmd) | Honors Seminar (PLCY 220H) | Current | 20 students |
 
 ## Instructor
 
