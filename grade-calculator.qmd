@@ -3,7 +3,7 @@ title: "Grade calculator"
 format: html
 ---
 
-## Honors version 
+## Honors seminar version 
 
 ```{=html}
 <div id="gradecalc" style="max-width: 760px;">
