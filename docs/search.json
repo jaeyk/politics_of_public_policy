@@ -201,5 +201,12 @@
     "title": "Grade calculator",
     "section": "",
     "text": "Select a mark for each component. This uses your syllabus conversion:\n    Check+ = 95, Check = 85, Check− = 75, No Credit = 0.\n  \n\n  \n\n  \n\n  \n    Final numeric average: –\n    Letter grade: –\n  \n\n  \n    Show weighting math"
+  },
+  {
+    "objectID": "feedback.html",
+    "href": "feedback.html",
+    "title": "feedback",
+    "section": "",
+    "text": "library(tidyverse)\nset.seed(1234)\n\nTrue environment\ntheta_true &lt;- 0.5 sigma &lt;- 1.2\n\n\nThreshold grid\nthresholds &lt;- seq(-1.5, 1.5, by = 0.05)\n\n\nGlobal utility function (unknown to students)\nglobal_utility &lt;- function(t, theta) { -(t - theta)^2 }\n\n\nLocal learning: estimate utility from k noisy signals\nsimulate_local_choice &lt;- function(k) { est_theta &lt;- mean(rnorm(k, mean = theta_true, sd = sigma)) tibble( threshold = thresholds, utility = global_utility(thresholds, est_theta) ) |&gt; slice_max(utility, n = 1) }\n\n\nRun simulations\ndf_local &lt;- map_dfr(c(1, 3, 10), ~simulate_local_choice(.x), .id = “signals”) |&gt; mutate(signals = as.integer(signals))\ndf_global &lt;- tibble( threshold = thresholds, utility = global_utility(thresholds, theta_true) )\n\n\nPlot\np &lt;- ggplot(df_global, aes(x = threshold, y = utility)) + geom_line(size = 1, color = “black”) + geom_vline(xintercept = theta_true, linetype = “dotted”, size = 1) + geom_vline(data = df_local, aes(xintercept = threshold, linetype = factor(signals)), size = 1) + labs( title = “Local optimization can differ from the global optimum”, subtitle = “More collective feedback moves choices closer to the global optimum”, x = “Design choice (threshold)”, y = “System-level performance”, linetype = “Number of feedback signals” ) + theme_minimal(base_size = 14)\nprint(p)\nggsave(“plots/local_vs_global_learning.png”, width = 7, height = 4.5)"
   }
 ]
