@@ -4,7 +4,7 @@ title: "Course Offerings"
 
 ## Current Courses
 
-### [Spring 2026 - Honors](courses/spring-2026.qmd)
+### [Spring 2026 - Honors Seminar](courses/spring-2026.qmd)
 
 **PLCY 220H Politics of Public Policy**
 

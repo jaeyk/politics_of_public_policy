@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -32,14 +32,15 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -171,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Semester</th>
 <th>Version</th>
 <th>Status</th>
+<th>Enrollment</th>
 </tr>
 </thead>
 <tbody>
@@ -178,11 +180,13 @@ ul.task-list li input[type="checkbox"] {
 <td><a href="./courses/fall-2026-doctoral.html">Fall 2026</a></td>
 <td>Doctoral Seminar</td>
 <td>Upcoming</td>
+<td>—</td>
 </tr>
 <tr class="even">
 <td><a href="./courses/spring-2026.html">Spring 2026</a></td>
-<td>Honors (PLCY 220H)</td>
+<td>Honors Seminar (PLCY 220H)</td>
 <td>Current</td>
+<td>20</td>
 </tr>
 </tbody>
 </table>
@@ -192,7 +196,7 @@ ul.task-list li input[type="checkbox"] {
 <p><strong><a href="https://jaeyk.github.io/">Jae Yeon Kim</a></strong></p>
 <ul>
 <li>Email: <a href="mailto:jaekim@unc.edu">jaekim@unc.edu</a></li>
-<li>Office Hours: <a href="https://calendly.com/jaekim-unc/30min">By appointment</a></li>
+<li>Office Hours: <a href="https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&amp;ismsaljsauthenabled&amp;ep=plink">By appointment</a></li>
 </ul>
 
 
@@ -250,13 +254,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -605,7 +610,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>© Jae Yeon Kim</p>
+<p>© Jae Yeon Kim (2026)</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;
