@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - misc/**
 
 website:
   title: "Politics of Public Policy"
