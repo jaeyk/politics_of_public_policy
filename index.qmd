@@ -25,6 +25,6 @@ Because research on the politics of public policy is interdisciplinary, we read 
 - Email: [jaekim@unc.edu](mailto:jaekim@unc.edu)
 - Office Hours: [By appointment](https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
-![Students' chalkboard exercise on drawing implementation analysis. Photo credit: Jae Yeon Kim (2026)](misc/combined_blackboard_image.jpg){width=65%}
+![Students' chalkboard exercise on drawing implementation analysis. Photo credit: Jae Yeon Kim (2026)](misc/combined_blackboard_image.jpg){width=80%}
 
 ![Students' chalkboard exercise on mapping power relations among policy actors. Photo credit: Jae Yeon Kim (2026)](misc/combined_blackboard_image2.png){width=90%}
