@@ -111,7 +111,7 @@ You may write this paper in two separate sections or as a single combined paper.
 
 In either case, it should be clear that you engage with both implementation and political analysis.
 
-#### Chalkboard Exercises (twice in class, not graded)
+### Elevator Pitch and Chalkboard Exercises (twice in class, not graded)
 
 As part of developing these sections, you will complete three in-class exercises. These exercises are not graded and are designed to provide concrete feedback. 
 
@@ -142,7 +142,7 @@ Third, you will complete a second chalkboard exercise that maps the political la
 - What is your political strategy, and what ethical and practical considerations guide it?
 - Who are your allies and opponents, and how do you know?
 - How can you build, sustain, and expand coalitions, and why do you think those strategies will work?
-- For each question above, explain why your argument is valid and support it with evidence. Provide credible references.
+- For each question above, explain why your argument is valid and support it with evidence. Provide credible references.. 
 
 #### Peer Review Report
 
@@ -182,13 +182,13 @@ All assignments (including drafts, peer review, and the final paper) will be gra
 Each assignment will be evaluated on three dimensions:
 
 1. Strength of argument, logical structure, and engagement with course concepts
-2. Use of proper evidence and references
+2. Use of proper evidence and references 
 3. Accuracy and completeness
 
 To receive a Check +, your work must:
 
 1. Answer all requested questions clearly and accurately,
-2. Show strong understanding of course concepts
+2. Show strong understanding of course concepts (I care about this because the goal is to understand the particular case as part of a broader class of problems. This will give you leverage to solve new problems)
 3. Include thoughtful criticism, extension, or original insight
 4. Demonstrate clear reasoning and well-organized writing
 5. Use credible evidence and reference appropriately
