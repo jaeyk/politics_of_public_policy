@@ -188,7 +188,7 @@ Each assignment will be evaluated on three dimensions:
 To receive a Check +, your work must:
 
 1. Answer all requested questions clearly and accurately,
-2. Show strong understanding of course concepts (I care about this because the goal is to understand the particular case as part of a broader class of problems. This will give you leverage to solve new problems)
+2. Show strong understanding of course concepts (I care about this because the goal is to understand the particular case as part of a broader class of problems. This will give you leverage to solve new problems.)
 3. Include thoughtful criticism, extension, or original insight
 4. Demonstrate clear reasoning and well-organized writing
 5. Use credible evidence and reference appropriately
