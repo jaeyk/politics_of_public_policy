@@ -41,7 +41,15 @@ You should complete all assigned readings. These are social science research art
 
 No books need to be purchased. All readings will be available on the course website.
 
-### In-class discussions
+Each week, I will begin by reviewing the readings and providing a brief lecture. After the lecture, I will either cold call students or divide you into small groups of five to six for discussion.
+
+We will then regroup and share key insights. I will also preview the readings for the following week when possible.
+
+### Cold Calling
+
+I will occasionally cold call students to check your understanding of the readings and to help you go deeper through follow up questions. If you would like to be excused, please email me in advance. I will use software that I developed, called [ClassKit](https://jaeyk.github.io/ClassKit/), to select students at random. If I rely only on volunteers, participation may reflect differences in personality, which I want to avoid. You will usually have three to five question options to choose from.
+
+### In-Class Discussions
 
 When completing the assigned readings, come prepared to discuss the following questions:
 
@@ -53,13 +61,19 @@ When completing the assigned readings, come prepared to discuss the following qu
 
 4. **Extensions:** How might we apply the insights from these readings to cases or contexts the authors did not address?
 
-This is the basic structure of the class. Each week, I will review the readings and provide a brief lecture. I will occasionally cold call students (email me in advance if you would like to be excused) to check your understanding of the readings.
+### Guest Lectures
 
-After the lecture, you will break into small groups of five to six students to discuss the questions above. We will then regroup and share key insights.
+We will have one to two guest lectures in this course. They are intentionally selected to support your implementation and political analysis. Students will have the opportunity to submit questions to guest speakers through a survey that I will circulate before each lecture. They may also ask questions during the Q&A. The guest lecture will be brief, about 15 to 20 minutes, and informal. There will be ample time for students to engage with the speaker.
 
-On the final class day of each week, I will also preview the readings for the following week.
+### Warm-up and Wrap-up Activities 
 
-When assignments are due, I will explain what is expected and how to complete them. After submission, I will provide collective feedback in class on what was done well and what can be improved.
+**Warm-up activities**: On the first day of class, or early in the semester, we will take time to get to know one another, including your background and career goals. We will also discuss what I should know about you to help you succeed in this class.
+
+**Wrap-up activities**: At the end of the semester, we will reflect on what we have learned and how you can apply these theoretical frameworks and analytical tools to your own projects. Grades are only a proxy for learning. The ultimate goal is to cultivate new habits of mind and apply them to problems we have not covered in this course.
+
+### Office Hours 
+
+I will usually end class 10 to 15 minutes early and remain in the room so that students with limited schedules can ask questions.  If you need more time for discussion, please use my [office hours](https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&ismsaljsauthenabled&ep=plink) (Fridays 10 AM-noon)
 
 ---
 
@@ -71,7 +85,9 @@ There are no pop quizzes, midterms, or final exams.
 
 Assignments are designed to help you develop your analytical skills and your ability to diagnose and address the political dimension of real implementation challenges.
 
-#### Statement of individual or group research topic (maximum 5-6 pages)
+When assignments are due, I will explain what is expected and how to complete them. After submission, I will provide collective feedback in class on what was done well and what can be improved.
+
+#### Statement of Individual or Group Research Topic (maximum 5-6 pages)
 
 Identify a real policy implementation problem that involves a political challenge. Begin by defining your policy domain, the specific implementation problem, your client, and your role.
 
@@ -81,15 +97,29 @@ This is a brief proposal of no more than 5–6 pages. At this stage, the goal is
 
 You may work individually or in a group of three to four students, ideally with overlapping interests and complementary skills.
 
-#### Research paper (only two sections)
+#### Research Paper (only two sections)
 
-You will submit the implementation and political analysis sections separately and receive collective feedback in class. I prefer giving collective feedback at this stage because students often encounter similar challenges, and seeing these patterns together helps everyone learn more effectively.
+You will submit the implementation and political analysis sections separately and receive collective feedback in class.
 
-You will then receive individual feedback from your peers, and finally receive my feedback on the final paper that integrates both sections.
+If needed, for example if you are on the wrong track or there is a clear area for improvement, I will also provide individualized feedback.
+
+After you submit your draft paper, you will receive individual feedback from your peers. A response letter addressing those comments must be included with your final assignment.
 
 Peer review is part of the assignment for two reasons. First, for innovation, receiving critical feedback is as important as generating creative ideas (see [Jon Bendor's interview](https://www.gsb.stanford.edu/insights/jonathan-bendor-why-criticism-good-innovation)). You want new ideas but also need a way to sort good ones from bad ones. Second, it is often easier to develop your tastes by critiquing someone else's work than your own.
 
-As part of developing these sections, you will complete three in-class exercises. These exercises are not graded and are designed to provide concrete feedback. First, you will deliver a short elevator pitch to clarify your core question, policy domain, and analytic focus. Second, you will participate in a chalkboard exercise that maps the implementation journey, tracing both the citizen experience and the agency perspective. Third, you will complete a second chalkboard exercise that maps the political landscape, including key actors, power relationships, and points of leverage from the standpoint of a policy entrepreneur. These exercises are intended to help you refine your analysis before writing and are directly tied to the sections you submit.
+You may write this paper in two separate sections or as a single combined paper.
+
+In either case, it should be clear that you engage with both implementation and political analysis.
+
+### Elevator Pitch and Chalkboard Exercises (twice in class, not graded)
+
+As part of developing these sections, you will complete three in-class exercises. These exercises are not graded and are designed to provide concrete feedback. 
+
+First, you will deliver a short elevator pitch to clarify your core question, policy domain, and analytic focus. 
+
+Second, you will participate in a chalkboard exercise that maps the implementation journey, tracing both the citizen experience and the agency perspective. 
+
+Third, you will complete a second chalkboard exercise that maps the political landscape, including key actors, power relationships, and points of leverage from the standpoint of a policy entrepreneur. These exercises are intended to help you refine your analysis before writing and are directly tied to the sections you submit.
 
 **a. Implementation Problem Section**
 
@@ -112,7 +142,7 @@ As part of developing these sections, you will complete three in-class exercises
 - What is your political strategy, and what ethical and practical considerations guide it?
 - Who are your allies and opponents, and how do you know?
 - How can you build, sustain, and expand coalitions, and why do you think those strategies will work?
-- For each question above, explain why your argument is valid and support it with evidence. Provide credible references.
+- For each question above, explain why your argument is valid and support it with evidence. Provide credible references.. 
 
 #### Peer Review Report
 
@@ -134,7 +164,13 @@ You should submit your response letter along with your final paper.
 
 Additional guidelines for the assignments are detailed [here](https://drive.google.com/file/d/121UhG5mLhAawLvmeDhazL0Kf7M9reDu4/view?usp=sharing).
 
-### How Assignment Marks Convert Into Final Grades
+### Grading
+
+#### Principles
+
+This is not an easy A course. The volume of readings, the type of discussions, and the assignments are likely new to most students. I am here to support your intellectual journey. To that end, I will apply lower standards for the first assignment and gradually raise them for subsequent assignments. I will apply the highest standards to the final paper, since by then you will have received feedback three to four times on your ideas and project.
+
+#### How Assignment Marks Convert Into Final Grades
 
 All assignments (including drafts, peer review, and the final paper) will be graded using the check system:
 
@@ -146,13 +182,13 @@ All assignments (including drafts, peer review, and the final paper) will be gra
 Each assignment will be evaluated on three dimensions:
 
 1. Strength of argument, logical structure, and engagement with course concepts
-2. Use of proper evidence and references
+2. Use of proper evidence and references 
 3. Accuracy and completeness
 
 To receive a Check +, your work must:
 
 1. Answer all requested questions clearly and accurately,
-2. Show strong understanding of course concepts
+2. Show strong understanding of course concepts (I care about this because the goal is to understand the particular case as part of a broader class of problems. This will give you leverage to solve new problems.)
 3. Include thoughtful criticism, extension, or original insight
 4. Demonstrate clear reasoning and well-organized writing
 5. Use credible evidence and reference appropriately
@@ -187,7 +223,10 @@ The resulting average will then be translated into a letter grade using the fina
 
 **Attendance:** Missing class more than a few times will lower your participation grade.
 
-**Due dates:** Assignments are due at the beginning of class on the assigned day. The final assignment is due by 12:00 PM (ET) on the assigned day.
+**Due dates:** 
+
+- Assignments are due at the beginning of class on the assigned day. 
+- The final assignment is due by 12:00 PM (ET) on the assigned day.
 
 **Late work policy:**
 
@@ -197,6 +236,7 @@ Late assignments will drop **one step per 24 hours**:
 - **Check → Check−**
 - **Check − → 70** (C− equivalent)
 - After that: 5 additional points deducted per 24 hours
+- For instance, if you submit a Check+ assignment 24 hours late, it will be graded as a Check. If you submit it 48 hours late, it will be graded as a Check−. A Check− assignment submitted 24 hours late will be graded as a 70 (C- equivalent).
 
 **Extensions:** If you know you will miss a deadline for a valid reason, contact me beforehand to arrange a new deadline without penalty.
 
@@ -206,7 +246,7 @@ Late assignments will drop **one step per 24 hours**:
 
 **Academic Honesty:** You may study together, but all submitted work must be your own. The Honor Code applies to all assignments, and your name on the work affirms your compliance.
 
-**Responsible AI Use:** If you put your name on an assignment, you are responsible for its accuracy and integrity. You may use generative AI, but you must do so responsibly. For example, if you cite references that do not exist, you will receive a zero on that assignment.
+**Responsible AI Use:** If you put your name on an assignment, you are responsible for its accuracy and integrity. You may use generative AI, but you must do so responsibly. For example, if you cite references that do not exist, you will receive a zero on that assignment. If you cite real references but mischaracterize or misattribute their content, especially by attributing arguments the authors did not make, you will lose 5 to 10 points depending on the severity of the error. AI tools often make these mistakes. 
 
 **Caveat:** I treat the syllabus as a roadmap for a joint project. Education is a collective action problem. A roadmap sometimes needs updates because we never have full information at the start of any journey. If I need to make any changes to the syllabus, including due dates, I will announce them as early as possible so students can adjust their schedules.
 
@@ -218,7 +258,7 @@ Late assignments will drop **one step per 24 hours**:
 
 #### Week 1: Introduction
 
-**Thu Jan 8**
+**Thu Jan 8 (warm-up activities)**
 
 - Why should you care about the politics of public policy?
 - How should we research the politics of public policy?
@@ -443,7 +483,7 @@ Daron Acemoglu. *Power and Progress: Our Thousand-Year Struggle Over Technology 
 
 #### Week 16: Policy Evidence, Reflexivity, and Research Methods
 
-**Tue Apr 21, Thu Apr 23**
+**Tue Apr 21, Thu Apr 23 (wrap-up activities) **
 
 - Burawoy, Michael. 1998. "The Extended Case Method." *Sociological Theory* 16 (1): 4--33.
 - Rao, Vijayendra. 2022. "Can Economics Become More Reflexive?" *World Bank Policy Research Working Paper* 9918.
