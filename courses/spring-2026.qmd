@@ -197,7 +197,7 @@ These numerical scores will be combined using the assignment weightings listed b
 - Draft political analysis section (due Thu, Mar 5) --- **10%**
 - Draft paper for peer review (due Thu, Apr 9) --- **20%**
 - Peer review of another group or individual's draft (due Thu, Apr 16) --- **10%**
-- Final paper, including a response letter to the peer review (due Wed, April 29) --- **40%**
+- Final paper, including a response letter to the peer review (due Wed, April 29) --- **30%**
 
 The resulting average will then be translated into a letter grade using the final grading scale:
 
