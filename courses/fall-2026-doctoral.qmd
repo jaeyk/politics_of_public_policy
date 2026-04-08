@@ -1,47 +1,397 @@
 ---
-title: "Fall 2026 - Doctoral Seminar"
-subtitle: "Politics of Public Policy"
+title: "PLCY 816-001 POLITICS & POLICY"
+subtitle: "Fall 2026 | Doctoral Seminar"
 ---
 
-::: {.callout-note}
-## Coming Soon
-Details for this doctoral seminar will be available before the semester begins.
-:::
+## Instructor Information
 
-## Course Information
-
-- **Instructor:** [Jae Yeon Kim](https://jaeyk.github.io/)
-- **Email:** [jaekim@unc.edu](mailto:jaekim@unc.edu)
+- **Name:** [Jae Yeon Kim](https://jaeyk.github.io/)
+- **Email:** jaekim@unc.edu
 - **Office Hours:** [By appointment](https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&ismsaljsauthenabled&ep=plink)
 
-### Meeting Times
+## Meeting Times
 
-TBD
-
-### Location
-
-TBD
+- **Day:** Monday 8:30 AM–11:00 AM (08/17/2026–11/30/2026)
+- **Location:** [Murphey Hall-Rm 0111](https://calendar.unc.edu/murphey_hall)
 
 ---
 
 ## Course Description
 
-TBD
+This doctoral seminar examines policy implementation as a political process shaped by power, institutions, organized interests, and social groups. It explores how states build capacity and deliver policies, how bureaucracies perform, how citizens experience government, and how those experiences feed back into politics and public policy. A central theme is decision-making. We analyze how politicians, bureaucrats, and citizens make *political* choices in light of their institutional environments, objectives, information, incentives, and constraints. Because research on the politics of public policy is interdisciplinary, we read both foundational and cutting-edge work from political science, economics, sociology, public law, and public administration.
+
+The seminar intentionally exposes students to diverse cases. It primarily engages American politics and public policy, but also examines European, Latin American, South Asian, and East Asian cases because, as Seymour M. Lipset (1922–2006) [noted](https://www.journalofdemocracy.org/articles/seymour-martin-lipset-1922-2006/), "a person who knows only one country knows no countries." Substantively, we cover multiple policy domains, including safety net programs, criminal justice, housing, and international development, with topics ranging from how state institutions have historically evolved to how to make government use of artificial intelligence more accountable.
+
+Beyond substantive knowledge, the seminar is designed to help students develop the craft of scholarly research. Readings, discussions, and assignments are integrated to help students understand how normative, theoretical, empirical, and methodological elements work together in producing original research on the politics of public policy.
 
 ---
 
-## Schedule
+## Course Expectations
 
-TBD
+### Attendance and Participation
+
+You are expected to attend every class in person. There will be no video recordings. Active participation is the foundation of a doctoral seminar. 
+
+### Reading
+
+You should complete all assigned readings before each Monday session. These are social science research articles and book chapters. Focus on the argument, evidence, structure, and style of each piece, and consider how it speaks to other work on the syllabus.
+
+No books need to be purchased. All readings will be available on the course website.
+
+### In-class discussions 
+
+In-class discussions are guided by the following questions. However, they are flexible and may evolve based on the readings and the group’s interests.
+
+1. **Convergence:** What common practical problems, theoretical questions, or methodological approaches do the authors engage with?
+2. **Divergence:** Where do their approaches diverge, how do they differ, and why do these differences matter?
+3. **Gaps:** What do they miss, how do they miss it, and why does it matter?
+4. **Extensions:** How might we apply the insights from these readings to cases the authors did not address?
+
+### Discussion Leadership
+
+Each student will serve as discussion leader for one seminar session. The discussion leader is responsible for:
+
+- Preparing a 5-minute framing presentation that synthesizes the week’s readings and poses 2–3 generative discussion questions.
+
+**Presentation Format**
+- No slide deck.
+- Use a slide deck only to share facilitation questions, if needed.
+- Use the chalkboard to explain concepts.
+
+Sign-ups will occur during the first two weeks. 
+
+### Guest Lectures
+
+We will have two guest lectures this semester: [Mallory SoRelle (Duke Sanford Public Policy)](https://sanford.duke.edu/profile/mallory-elizabeth-sorelle/) and [Miranda Yaver (Pitt Public Health)](https://www.publichealth.pitt.edu/directory/miranda-yaver).
+
+Students will have the opportunity to submit questions in advance through a survey I will circulate before each lecture. There will be ample time for Q&A.
+
+### Office Hours
+
+I will usually end class 10–15 minutes early and remain in the room so that students with limited schedules can ask questions. If you need more time, please use my [office hours](https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&ismsaljsauthenabled&ep=plink).
 
 ---
 
-## Assignments
+## Course Policies
 
-TBD
+### Assignments
+
+There are no midterms or final exams. 
+
+Assignments are designed to help you develop **your scholarly voice** and **your ability to produce original and impactful research** on the politics of public policy. These assignments are designed to support your professional development as a researcher and provide hands-on experience in producing scholarly work. The ultimate goal is to produce a publishable research paper by the end of the semester that you can submit to a journal or conference.
+
+- Serving as a discussant (once during the semester)  
+- Writing assignments:  
+  - Two research memos (maximum 2 pages each)  
+  - Research paper proposal (maximum 5 pages)  
+  - One peer review of research paper proposal (maximum 2 pages)  
+  - Research paper (maximum 30 pages, excluding references and the appendix) + Response letter (maximum 2 pages)  
+- Chalkboard assignments:  
+  - Presenting your research memos on the chalkboard (once during the semester)  
+  - Presenting your research paper proposal on the chalkboard (once during the semester)  
+- Slide presentation (mock conference presentation):  
+  - Presenting your research paper (once during the semester)
+
+#### **Discussion Leadership (once during semester)**
+
+Each student leads one seminar session. See expectations above.
+
+#### **Research Memos (maximum 2 pages)**
+
+Identify an original research question at the intersection of politics and policy implementation. The proposal should be **two paragraphs only.**
+
+- **Expected findings:** I find... (What do you expect to find? Assume that you will find what you anticipate, even though this is a strong assumption.)
+
+- **Expected contributions:** I contribute... (What do you contribute? Put differently, who are your target audiences, and what will they learn from your findings?)
+
+You will submit two proposals and present them in class. After the presentation, there will be brief discussions on the strengths and weaknesses of your memos. 
+
+#### **Research Paper Proposal (maximum 5 pages)**
+ 
+Pick one of your research memos and expand it into a research paper proposal. Also attach a brief memo explaining why you chose this memo over the other. At this stage, be more specific.
+
+- What is your research question? Why does it matter to whom?
+- What are your data and hypotheses (often more limited than research questions)? What are your empirical strategies (or simply put, how will you answer your hypotheses)?
+- What are the expected theoretical, methodological, and practical contributions of your findings?
+
+#### **Peer Review Report (maximum 2 pages)**
+
+Review one research proposal from your classmates and provide feedback in four paragraphs, each focused on one area: (1) Does the proposal have a well-defined research question? (2) Does the proposal present a clear argument? (3) Does the proposal have a sound empirical strategy? (4) Does the proposal have broad expected contributions, including engagement with the relevant literature? 
+
+Be constructive and offer suggestions for improvement.
+
+#### **Research Paper (maximum 30 pages)**
+
+A full scholarly paper that makes an original contribution to the politics of public policy literature.
+
+The paper should demonstrate:
+
+- A well-motivated and well-defined research question  
+- Broad and deep engagement with relevant literatures  
+- A clear and, ideally, simple argument  
+- A sound research design and strong evidence  
+- Precise, careful, and accessible writing
+
+#### **Response Letter (maximum 2 pages)**
+
+Submit your response letter alongside your final paper. Respond to all reviewer comments: explain how you incorporated suggestions or, if you did not, why the decision is justified.
+
+### Grading
+
+This course is graded on a pass/fail basis. For more information on the graduate grading system at UNC-Chapel Hill, see the [Registrar's explanation of the grading system](https://registrar.unc.edu/explanation-of-grading-system/).
+
+### Missed Class and Late Work
+
+**Attendance:** Missing more than two sessions will substantially affect your participation and discussion leadership grades.
+
+**Late work policy:** Late assignments will be penalized unless an extension has been arranged in advance.
+
+**Extensions:** Contact me before the deadline if you have a valid reason. I will generally grant extensions for legitimate circumstances.
+
+**Illness or university-approved excuses:** No penalty with proper documentation.
+
+**Disabilities:** Please let me know within the first two weeks if you need any accommodations.
+
+**Academic Honesty:** You may discuss readings and ideas with peers, but all submitted work must be your own. The Honor Code applies to all assignments.
+
+**Responsible AI Use:** If you put your name on an assignment, you are responsible for its accuracy and integrity. You may use generative AI tools, but you must do so responsibly. Fabricated references will result in a fail on that assignment; mischaracterized references will result in a lower mark.
+
+**Caveat:** I treat the syllabus as a roadmap for a joint project. If I need to make any changes, I will announce them as early as possible.
 
 ---
 
-## Policies
+## Course Schedule
 
-TBD
+### Part One: Politics, Public Policy, and Democracy
+
+#### Week 1: Introduction
+
+**Mon Aug 17**
+
+- Why study the politics of public policy?
+- How should we do research in this area?
+- What can this seminar offer your own research agenda?
+- Syllabus overview and discussion leadership sign-ups
+
+#### Week 2: The Policy-Centric Politics (and Political Science)
+
+**Mon Aug 24**
+
+- Brady, David. 2023. "Poverty, Not the Poor." *Science Advances* 9 (34).
+- Schattschneider, E. E. 1957. "Intensity, Visibility, Direction, and Scope." *American Political Science Review* 51(4): 933–942.
+- Hacker, Jacob S., and Paul Pierson. 2014. "After the 'Master Theory': Downs, Schattschneider, and the Rebirth of Policy-Focused Analysis." *Perspectives on Politics* 12 (3): 643–62.
+- Hertel-Fernandez, Alexander, Jacob S. Hacker, Paul Pierson, and Kathleen Thelen. 2022. "The American Political Economy: A Framework and an Agenda for Research." In: *The American Political Economy: Politics, Markets and Power*, eds. Alexander Hertel-Fernandez, Jacob S. Hacker, Paul Pierson, and Kathleen Thelen. Cambridge University Press.
+
+*Additional resources*
+
+Paul Pierson and Kathleen Thelen. *Rethinking American Political Economy.* Public lecture hosted by the LSE US Centre (2021).
+
+- [YouTube](https://www.youtube.com/watch?v=lPAU8XBNu3A)
+- [Podcast](https://www.lse.ac.uk/lse-player?id=361244c3-24ae-41cb-8854-37177794a330)
+
+#### Week 3: The Politics of Policy Implementation
+
+**Mon Aug 31** 
+
+- Mangla, Akshay, and Jae Yeon Kim, "Reconstructing Implementation as Politics," Working Paper.
+- Lindblom, Charles E. 1959. “The Science of ‘Muddling Through.’” Public Administration Review 19 (2): 79–88.
+- Wildavsky, Aaron. 1973. "If Planning Is Everything, Maybe It's Nothing." *Policy Sciences* 4 (2): 127–153.
+- Lipsky, Michael. 1971. "Street-Level Bureaucracy and the Analysis of Urban Reform." *Urban Affairs Quarterly* 6 (4): 391–409.
+- Simon, Herbert A. 1990. "Invariants of Human Behavior." *Annual Review of Psychology* 41(1): 1–20.
+
+*Additional resources*
+
+Ezra Klein's interview with Jennifer Pahlka. "The Book I Wish Every Policymaker Would Read." *The Ezra Klein Show*, June 6, 2023.
+
+- [YouTube](https://www.youtube.com/watch?v=hVXUYQ84Ww4)
+- [Podcast](https://podcasts.apple.com/us/podcast/the-book-i-wish-every-policymaker-would-read/id1548604447?i=1000615839464)
+
+#### Week 4: Political Legitimacy and Policy Delivery
+
+**Mon Sep 14** 
+
+- Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53 (1): 69–105.
+- Levi, Margaret. 2022. "Trustworthy Government: The Obligations of Government and the Responsibilities of the Governed." *Daedalus* 151 (Fall): 215–233.
+- Lerman, Amy E. 2020. "The Public Reputation as a Self-Fulfilling Prophecy." In: *Good Enough for Government Work: The Public Reputation Crisis in America (And What We Can Do to Fix It)*. University of Chicago Press.
+- Fukuyama, Francis, Christopher Dann, and Beatriz Magaloni. 2025. "Delivering for Democracy: Why Results Matter." *Journal of Democracy* 36 (2): 5–19.
+
+*Additional resources*
+
+Margaret Levi. *Trustworthy Government and Legitimating Beliefs*. Public lecture hosted by the TiGRE Webinar series (2020).
+
+- [YouTube](https://www.youtube.com/watch?v=iftJQCJ_7b8&t=355s)
+
+---
+
+### Part Two: What Is the State, How It Works, and Why It Matters
+
+#### Week 5: The Origins and Varieties of State Capacity
+
+**Mon Sep 28** *(research memos 1 & 2 due; chalkboard presentations in class)*
+
+- Grzymala-Busse, Anna. 2024. "Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation." *American Political Science Review* 118 (1): 88–107.
+- Kapur, Devesh. 2020. "Why Does the Indian State Both Fail and Succeed?" *Journal of Economic Perspectives* 34(1): 31–54.
+- Lee, Melissa M., and Nan Zhang. 2017. "Legibility and the Informational Foundations of State Capacity." *The Journal of Politics* 79 (1): 118–132.
+- Zhang, Simone, and Rebecca A. Johnson. 2023. "Hierarchies in the Decentralized Welfare State: Prioritization in the Housing Choice Voucher Program." *American Sociological Review* 88 (1): 114–153.
+
+*Additional resources*
+
+Yascha Mounk's interview with James Scott. "The Perils of State Power." *Persuasion*. September 3, 2024.
+
+- [Podcast](https://www.persuasion.community/p/scott)
+
+#### Week 6: Institutional Variations and Outcomes
+
+**Mon Oct 5**
+
+- Tsebelis, George. 2000. "Veto Players and Institutional Analysis." *Governance* 13 (4): 441–474.
+- Lacey, Nicola, and David Soskice. 2015. "Crime, Punishment, and Segregation in the United States: The Paradox of Local Democracy." *Punishment & Society* 17 (4): 454–481.
+- Anzia, Sarah F. 2022. "Interest Groups and Public Policy in US Local Government." In *Local Interests: Politics, Policy, and Interest Groups in US City Governments*. University of Chicago Press.
+- Grumbach, Jacob, and Jamila Michener. 2022. "American Federalism, Political Inequality, and Democratic Erosion." *The ANNALS of the American Academy of Political and Social Science* 699 (1): 143–155.
+
+*Additional resources*
+
+Jamila Michener. *Fragmented Democracy: Medicaid Federalism and Unequal Politics*. Book talk hosted by Cornell's Mann Library (2019).
+
+- [YouTube](https://www.youtube.com/watch?v=Gye6y1U3GUI)
+
+#### Week 7: Bureaucratic Performance, Expertise, and Reputation
+
+**Mon Oct 12** *(University Day — class held; research paper proposal due; chalkboard presentation in class)*
+
+- Ang, Yuen Yuen. 2017. "Beyond Weber: Conceptualizing an Alternative Ideal Type of Bureaucracy in Developing Contexts." *Regulation & Governance* 11 (3): 282–298.
+- Williams, Martin J. 2021. "Beyond State Capacity: Bureaucratic Performance, Policy Implementation and Reform." *Journal of Institutional Economics* 17(2): 339–57.
+- Auerbach, Adam Michael, Shikhar Singh, and Tariq Thachil. 2025. "Who Knows How To Govern? Procedural Knowledge in India's Small-Town Councils." *American Political Science Review* 119 (2): 708–726.
+- Carpenter, Daniel P. 2000. "State Building Through Reputation Building: Coalitions of Esteem and Program Innovation in the National Postal System, 1883–1913." *Studies in American Political Development* 14 (2): 121–155.
+
+*Additional resources*
+
+Guo Xu. *Bureaucracy*. Public lecture hosted by VoxDev (2023).
+
+- [YouTube](https://www.youtube.com/watch?v=O6SaoZ9oELw)
+
+#### Week 8: Administrative Burden and Policy Feedback
+
+**Mon Oct 19** *(Fall Break Oct 15–16 — no Monday impact)*
+
+- Moynihan, Donald, Pamela Herd, and Hope Harvey. 2015. "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen–State Interactions." *Journal of Public Administration Research and Theory* 25 (1): 43–69.
+- Mettler, Suzanne. 2010. "Reconstituting the Submerged State: The Challenges of Social Policy Reform in the Obama Era." *Perspectives on Politics* 8(3): 803–824.
+- Soss, Joe, and Vesla Weaver. 2017. "Police Are Our Government: Politics, Political Science, And the Policing of Race–Class Subjugated Communities." *Annual Review of Political Science* 20: 565–591.
+- Michener, Jamila, Mallory SoRelle, and Chloe Thurston. 2022. "From the Margins To the Center: A Bottom-Up Approach To Welfare State Scholarship." *Perspectives on Politics* 20 (1): 154–169.
+
+*Additional resources*
+
+Pamela Herd and Donald Moynihan. *Administrative Burden: Policymaking by Other Means*. Public lecture hosted by the Blavatnik School of Government, University of Oxford (2019).
+
+- [YouTube](https://www.youtube.com/watch?v=-8soYdrlukM)
+
+---
+
+### Part Three: State, Business, and Society
+
+#### Week 9: The Contracting State
+
+**Mon Oct 26** *(peer review of proposal due)*
+
+- Kettl, Donald F. 1988. "Performance and Accountability: The Challenge of Government by Proxy for Public Administration." *The American Review of Public Administration* 18 (1): 9–28.
+- Salamon, Lester M. 1987. "Of Market Failure, Voluntary Failure, and Third-Party Government: Toward a Theory of Government-Nonprofit Relations in the Modern Welfare State." *Journal of Voluntary Action Research* 16(1-2): 29–49.
+- Dooling, Bridget C. E., and Rachel A. Potter. 2022. "Rulemaking by Contract." *Administrative Law Review* 74: 703.
+- James, Oliver, Sebastian Jilke, Carolyn Petersen, and Steven Van de Walle. 2016. "Citizens' Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting." *Public Administration Review* 76 (1): 83–93.
+
+*Additional resources*
+
+Paul Light. *The Government-Industrial Complex*. Public lecture hosted by USC Price (2019).
+
+- [YouTube](https://www.youtube.com/watch?v=zBiqFp4Ure8)
+
+#### Week 10: The State and Social Embeddedness
+
+**Mon Nov 2**
+
+- Collier, Ruth Berins, and David Collier. 1979. "Inducements Versus Constraints: Disaggregating Corporatism." *American Political Science Review* 73 (4): 967–986.
+- Crawford, Sue E., and Elinor Ostrom. 1995. "A Grammar of Institutions." *American Political Science Review* 89 (3): 582–600.
+- Mangla, Akshay. 2022. "Bureaucratic Norms: A Theory of Implementation." In: *Making Bureaucracy Work: Norms, Education and Public Service Delivery in Rural India*. Cambridge Studies in the Comparative Politics of Education. Cambridge University Press.
+- Xu, Alice. 2024. "Segregation and the Spatial Externalities of Inequality: A Theory of Interdependence and Public Goods in Cities." *American Political Science Review* 118 (3): 1431–1448.
+
+*Additional resources*
+
+Akshay Mangla. *Making Bureaucracy Work*. Public lecture hosted by Skoll Centre for Social Entrepreneurship (2023).
+
+- [YouTube](https://www.youtube.com/watch?v=mBkhe3DCqVc)
+
+---
+
+### Part Four: Political Strategies
+
+#### Week 11: Credit-Taking, Blame-Shifting, and Claim-Making
+
+**Mon Nov 9**
+
+- Holland, Alisha C. 2016. "Forbearance." *American Political Science Review.* 110(2): 232–246.
+- Dasgupta, Aditya, and Devesh Kapur. 2020. "The Political Economy of Bureaucratic Overload: Evidence from Rural Development Officials in India." *American Political Science Review* 114 (4): 1316–1334.
+- Toral, Guillermo. 2024. "Turnover: How Lame-duck Governments Disrupt the Bureaucracy and Service Delivery Before Leaving Office." *The Journal of Politics* 86 (4): 1348–1367.
+- Silva, Fernando, Irene Bloemraad, and Kim Voss. 2025. "Frame Backfire: The Trouble with Civil Rights Appeals in the Contemporary United States." *American Sociological Review* 90 (3): 349–386.
+
+*Additional resources*
+
+Alisha Holland. *Creative Construction: The Rise and Stall of Mass Infrastructure in Latin America*. Public lecture hosted by the Hinkley Institute of Politics (2021).
+
+- [YouTube](https://www.youtube.com/watch?v=lJgrKfa0kvo)
+
+#### Week 12: Civil Society, Collective Action, and Policy Change
+
+**Mon Nov 16**
+
+- Cohen, Joshua, and Archon Fung. 2004. "Radical Democracy." *Swiss Journal of Political Science* 10 (4): 23–34.
+- de Vries, Milan, Jae Yeon Kim, and Hahrie Han. 2024. "The Unequal Landscape of Civic Opportunity in America." *Nature Human Behaviour* 8 (2): 256–263.
+- Parthasarathy, Ramya, Vijayendra Rao, and Nethra Palaniswamy. 2019. "Deliberative Democracy in an Unequal World: A Text-As-Data Study of South India's Village Assemblies." *American Political Science Review* 113 (3): 623–640.
+- Carpenter, Daniel. 2025. "Petitioning as Governance: The Scattered and Multinational World of the Early United States." *Journal of the Early Republic* 45(3): 417–428.
+
+*Additional resources*
+
+Hahrie Han. *Undivided: The Quest for Racial Solidarity in an American Church*. Public lecture hosted by Amos Fortune Forum (2025).
+
+- [YouTube](https://www.youtube.com/watch?v=CwjyQqNfGyU)
+
+---
+
+### Part Five: Current Debates, Methods, and Research Frontiers
+
+#### Week 13: Challenges to the Administrative State
+
+**Mon Nov 23** *(Thanksgiving recess Nov 25–27 — no Monday impact)*
+
+- Coglianese, Cary. 2022. "Administrative Law: Governing Economic and Social Governance." *Oxford Research Encyclopedia of Economics and Finance*. Available at SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005524](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005524)
+- Bagley, Nicholas. 2019. "The Procedure Fetish." *Michigan Law Review.* 118(3): 345–401.
+- Howell, William G., and Terry M. Moe. 2023. "The Strongman Presidency and the Two Logics of Presidential Power." *Presidential Studies Quarterly* 53 (2): 145–168.
+- Carpenter, Daniel, Dagonel, Angelo, Judge-Lord, Devin, Kenny, Christopher, Libgober, Brian, Rashin, Steven, Waggoner, Jacob, and Yackee, Susan Webb. 2022. "Inequality in Administrative Democracy: Large-Sample Evidence from American Financial Regulation." Available at *SSRN*. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4770520](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4770520)
+
+*Additional resources*
+
+Richard Hanania's interview with Nicholas Bagley. "Administrative Procedure and the Common Good." *Center for Science in the Public Interest*, February 27, 2023.
+
+- [YouTube](https://www.youtube.com/watch?v=EnKcYz0C-iY)
+
+#### Week 14: Artificial Intelligence, Politics, and Society; Evidence and Methods; Wrap-up
+
+**Mon Nov 30** *(last class — classes end Dec 2; mock conference presentations)*
+
+- Engstrom, David Freeman, and Daniel E. Ho. 2020. "Algorithmic Accountability in the Administrative State." *Yale Journal on Regulation* 37: 800–854.
+- Narayanan, Arvind, and Sayash Kapoor. 2025. "AI as Normal Technology." *Knight First Amendment Institute*.
+- Burawoy, Michael. 1998. "The Extended Case Method." *Sociological Theory* 16 (1): 4–33.
+- Rao, Vijayendra. 2022. "Can Economics Become More Reflexive?" *World Bank Policy Research Working Paper* 9918.
+- Kim, Jae Yeon, Pamela Herd, Sebastian Jilke, Donald Moynihan, and Kerry Rodden. 2025. "Administrative Checkpoints, Burdens, and Human-Centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management*.
+
+*Additional resources*
+
+Daron Acemoglu. *Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity*. Public lecture hosted by the Becker Friedman Institute for Research in Economics, University of Chicago.
+
+- [YouTube](https://www.youtube.com/watch?v=4wpg_qr3-hY)
+
+Vijayendra Rao. *Policy for the People*. Public lecture hosted by the Development Research Group, World Bank (2025).
+
+- [YouTube](https://www.youtube.com/watch?v=_UzbwmOL80o&t=697s)
+
+---
+
+**Final paper (including response letter) due by Fri, Dec 11 at 12:00 PM (ET)**
