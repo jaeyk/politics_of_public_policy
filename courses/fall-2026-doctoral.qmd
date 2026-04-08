@@ -1,5 +1,5 @@
 ---
-title: "PLCY 816-001 POLITICS & POLICY"
+title: "PLCY 816 POLITICS & POLICY"
 subtitle: "Fall 2026 | Doctoral Seminar"
 ---
 
@@ -7,7 +7,7 @@ subtitle: "Fall 2026 | Doctoral Seminar"
 
 - **Name:** [Jae Yeon Kim](https://jaeyk.github.io/)
 - **Email:** jaekim@unc.edu
-- **Office Hours:** [By appointment](https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&ismsaljsauthenabled&ep=plink)
+- **Office Hours:** [By appointment](https://outlook.office.com/bookwithme/user/d68c72d12207404bbbdf6879a13da2cf@unc.edu?anonymous&ismsaljsauthenabled&ep=plink) (Mondays 1-3 PM)
 
 ## Meeting Times
 
@@ -179,6 +179,7 @@ This course is graded on a pass/fail basis. For more information on the graduate
 
 - Brady, David. 2023. "Poverty, Not the Poor." *Science Advances* 9 (34).
 - Schattschneider, E. E. 1957. "Intensity, Visibility, Direction, and Scope." *American Political Science Review* 51(4): 933–942.
+- Esping-Andersen, Gøsta. 1985. “Power and Distributional Regimes.” *Politics & Society* 14 (2): 223–256.
 - Hacker, Jacob S., and Paul Pierson. 2014. "After the 'Master Theory': Downs, Schattschneider, and the Rebirth of Policy-Focused Analysis." *Perspectives on Politics* 12 (3): 643–62.
 - Hertel-Fernandez, Alexander, Jacob S. Hacker, Paul Pierson, and Kathleen Thelen. 2022. "The American Political Economy: A Framework and an Agenda for Research." In: *The American Political Economy: Politics, Markets and Power*, eds. Alexander Hertel-Fernandez, Jacob S. Hacker, Paul Pierson, and Kathleen Thelen. Cambridge University Press.
 
@@ -211,6 +212,7 @@ Ezra Klein's interview with Jennifer Pahlka. "The Book I Wish Every Policymaker 
 **Mon Sep 14** 
 
 - Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53 (1): 69–105.
+- Huntington, Samuel P. 1965. “Political Development and Political Decay.” *World Politics* 17 (3): 386–430.
 - Levi, Margaret. 2022. "Trustworthy Government: The Obligations of Government and the Responsibilities of the Governed." *Daedalus* 151 (Fall): 215–233.
 - Lerman, Amy E. 2020. "The Public Reputation as a Self-Fulfilling Prophecy." In: *Good Enough for Government Work: The Public Reputation Crisis in America (And What We Can Do to Fix It)*. University of Chicago Press.
 - Fukuyama, Francis, Christopher Dann, and Beatriz Magaloni. 2025. "Delivering for Democracy: Why Results Matter." *Journal of Democracy* 36 (2): 5–19.
@@ -229,10 +231,11 @@ Margaret Levi. *Trustworthy Government and Legitimating Beliefs*. Public lecture
 
 **Mon Sep 28** *(research memos 1 & 2 due; chalkboard presentations in class)*
 
-- Grzymala-Busse, Anna. 2024. "Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation." *American Political Science Review* 118 (1): 88–107.
 - Kapur, Devesh. 2020. "Why Does the Indian State Both Fail and Succeed?" *Journal of Economic Perspectives* 34(1): 31–54.
 - Lee, Melissa M., and Nan Zhang. 2017. "Legibility and the Informational Foundations of State Capacity." *The Journal of Politics* 79 (1): 118–132.
+- Brambor, Thomas, Agustín Goenaga, Johannes Lindvall, and Jan Teorell. 2020. “The Lay of the Land: Information Capacity and the Modern State.” *Comparative Political Studies* 53 (2): 175–213.    
 - Zhang, Simone, and Rebecca A. Johnson. 2023. "Hierarchies in the Decentralized Welfare State: Prioritization in the Housing Choice Voucher Program." *American Sociological Review* 88 (1): 114–153.
+- Grzymala-Busse, Anna. 2024. "Tilly Goes to Church: The Religious and Medieval Roots of European State Fragmentation." *American Political Science Review* 118 (1): 88–107.
 
 *Additional resources*
 
@@ -245,6 +248,7 @@ Yascha Mounk's interview with James Scott. "The Perils of State Power." *Persuas
 **Mon Oct 5**
 
 - Tsebelis, George. 2000. "Veto Players and Institutional Analysis." *Governance* 13 (4): 441–474.
+- Williams, Martin J. 2025. “Causal Inference, Agency, and the Problem of Inherent Endogeneity.” *Annual Review of Political Science* 29: in press.
 - Lacey, Nicola, and David Soskice. 2015. "Crime, Punishment, and Segregation in the United States: The Paradox of Local Democracy." *Punishment & Society* 17 (4): 454–481.
 - Anzia, Sarah F. 2022. "Interest Groups and Public Policy in US Local Government." In *Local Interests: Politics, Policy, and Interest Groups in US City Governments*. University of Chicago Press.
 - Grumbach, Jacob, and Jamila Michener. 2022. "American Federalism, Political Inequality, and Democratic Erosion." *The ANNALS of the American Academy of Political and Social Science* 699 (1): 143–155.
@@ -259,10 +263,12 @@ Jamila Michener. *Fragmented Democracy: Medicaid Federalism and Unequal Politics
 
 **Mon Oct 12** *(University Day — class held; research paper proposal due; chalkboard presentation in class)*
 
-- Ang, Yuen Yuen. 2017. "Beyond Weber: Conceptualizing an Alternative Ideal Type of Bureaucracy in Developing Contexts." *Regulation & Governance* 11 (3): 282–298.
-- Williams, Martin J. 2021. "Beyond State Capacity: Bureaucratic Performance, Policy Implementation and Reform." *Journal of Institutional Economics* 17(2): 339–57.
-- Auerbach, Adam Michael, Shikhar Singh, and Tariq Thachil. 2025. "Who Knows How To Govern? Procedural Knowledge in India's Small-Town Councils." *American Political Science Review* 119 (2): 708–726.
 - Carpenter, Daniel P. 2000. "State Building Through Reputation Building: Coalitions of Esteem and Program Innovation in the National Postal System, 1883–1913." *Studies in American Political Development* 14 (2): 121–155.
+- Ang, Yuen Yuen. 2017. "Beyond Weber: Conceptualizing an Alternative Ideal Typ
+e of Bureaucracy in Developing Contexts." *Regulation & Governance* 11 (3): 282–298.
+- Williams, Martin J. 2026. "Reform as a Theory." In *Reform as Process: Implementing Changes in Public Bureaucracies*. New York: Columbia University Press.
+- Auerbach, Adam Michael, Shikhar Singh, and Tariq Thachil. 2025. "Who Knows How To Govern? Procedural Knowledge in India's Small-Town Councils." *American Political Science Review* 119 (2): 708–726.
+- Aneja, Abhay, and Guo Xu. 2024. “Strengthening State Capacity: Civil Service Reform and Public Sector Performance during the Gilded Age.” *American Economic Review* 114 (8): 2352–2387.
 
 *Additional resources*
 
@@ -277,6 +283,7 @@ Guo Xu. *Bureaucracy*. Public lecture hosted by VoxDev (2023).
 - Moynihan, Donald, Pamela Herd, and Hope Harvey. 2015. "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen–State Interactions." *Journal of Public Administration Research and Theory* 25 (1): 43–69.
 - Mettler, Suzanne. 2010. "Reconstituting the Submerged State: The Challenges of Social Policy Reform in the Obama Era." *Perspectives on Politics* 8(3): 803–824.
 - Soss, Joe, and Vesla Weaver. 2017. "Police Are Our Government: Politics, Political Science, And the Policing of Race–Class Subjugated Communities." *Annual Review of Political Science* 20: 565–591.
+- Heinrich, Carolyn J. 2018. “Presidential Address: ‘A Thousand Petty Fortresses’: Administrative Burden in U.S. Immigration Policies and Its Consequences.” *Journal of Policy Analysis and Management* 37 (2): 211–239.
 - Michener, Jamila, Mallory SoRelle, and Chloe Thurston. 2022. "From the Margins To the Center: A Bottom-Up Approach To Welfare State Scholarship." *Perspectives on Politics* 20 (1): 154–169.
 
 *Additional resources*
@@ -295,8 +302,9 @@ Pamela Herd and Donald Moynihan. *Administrative Burden: Policymaking by Other M
 
 - Kettl, Donald F. 1988. "Performance and Accountability: The Challenge of Government by Proxy for Public Administration." *The American Review of Public Administration* 18 (1): 9–28.
 - Salamon, Lester M. 1987. "Of Market Failure, Voluntary Failure, and Third-Party Government: Toward a Theory of Government-Nonprofit Relations in the Modern Welfare State." *Journal of Voluntary Action Research* 16(1-2): 29–49.
-- Dooling, Bridget C. E., and Rachel A. Potter. 2022. "Rulemaking by Contract." *Administrative Law Review* 74: 703.
 - James, Oliver, Sebastian Jilke, Carolyn Petersen, and Steven Van de Walle. 2016. "Citizens' Blame of Politicians for Public Service Failure: Experimental Evidence about Blame Reduction through Delegation and Contracting." *Public Administration Review* 76 (1): 83–93.
+- Brunjes, Benjamin M. 2020. “Competition and Federal Contractor Performance.” *Journal of Public Administration Research and Theory* 30 (2): 202–219.
+- Dooling, Bridget C. E., and Rachel A. Potter. 2022. "Rulemaking by Contract." *Administrative Law Review* 74: 703.
 
 *Additional resources*
 
@@ -310,6 +318,7 @@ Paul Light. *The Government-Industrial Complex*. Public lecture hosted by USC Pr
 
 - Collier, Ruth Berins, and David Collier. 1979. "Inducements Versus Constraints: Disaggregating Corporatism." *American Political Science Review* 73 (4): 967–986.
 - Crawford, Sue E., and Elinor Ostrom. 1995. "A Grammar of Institutions." *American Political Science Review* 89 (3): 582–600.
+- Trounstine, Jessica. 2020. “The Geography of Inequality: How Land Use Regulation Produces Segregation.” *American Political Science Review* 114 (2): 443–455.
 - Mangla, Akshay. 2022. "Bureaucratic Norms: A Theory of Implementation." In: *Making Bureaucracy Work: Norms, Education and Public Service Delivery in Rural India*. Cambridge Studies in the Comparative Politics of Education. Cambridge University Press.
 - Xu, Alice. 2024. "Segregation and the Spatial Externalities of Inequality: A Theory of Interdependence and Public Goods in Cities." *American Political Science Review* 118 (3): 1431–1448.
 
@@ -328,6 +337,7 @@ Akshay Mangla. *Making Bureaucracy Work*. Public lecture hosted by Skoll Centre 
 **Mon Nov 9**
 
 - Holland, Alisha C. 2016. "Forbearance." *American Political Science Review.* 110(2): 232–246.
+- Catalinac, Amy, Bruce Bueno de Mesquita, and Alastair Smith. 2020. “A Tournament Theory of Pork Barrel Politics: The Case of Japan.” *Comparative Political Studies* 53 (10–11): 1619–1655.
 - Dasgupta, Aditya, and Devesh Kapur. 2020. "The Political Economy of Bureaucratic Overload: Evidence from Rural Development Officials in India." *American Political Science Review* 114 (4): 1316–1334.
 - Toral, Guillermo. 2024. "Turnover: How Lame-duck Governments Disrupt the Bureaucracy and Service Delivery Before Leaving Office." *The Journal of Politics* 86 (4): 1348–1367.
 - Silva, Fernando, Irene Bloemraad, and Kim Voss. 2025. "Frame Backfire: The Trouble with Civil Rights Appeals in the Contemporary United States." *American Sociological Review* 90 (3): 349–386.
@@ -343,8 +353,9 @@ Alisha Holland. *Creative Construction: The Rise and Stall of Mass Infrastructur
 **Mon Nov 16**
 
 - Cohen, Joshua, and Archon Fung. 2004. "Radical Democracy." *Swiss Journal of Political Science* 10 (4): 23–34.
-- de Vries, Milan, Jae Yeon Kim, and Hahrie Han. 2024. "The Unequal Landscape of Civic Opportunity in America." *Nature Human Behaviour* 8 (2): 256–263.
 - Parthasarathy, Ramya, Vijayendra Rao, and Nethra Palaniswamy. 2019. "Deliberative Democracy in an Unequal World: A Text-As-Data Study of South India's Village Assemblies." *American Political Science Review* 113 (3): 623–640.
+- Gause, LaGina. 2022. “Revealing Issue Salience via Costly Protest: How Legislative Behavior Following Protest Advantages Low-Resource Groups.” *British Journal of Political Science* 52: 259–279.
+- de Vries, Milan, Jae Yeon Kim, and Hahrie Han. 2024. "The Unequal Landscape of Civic Opportunity in America." *Nature Human Behaviour* 8 (2): 256–263.
 - Carpenter, Daniel. 2025. "Petitioning as Governance: The Scattered and Multinational World of the Early United States." *Journal of the Early Republic* 45(3): 417–428.
 
 *Additional resources*
@@ -359,8 +370,9 @@ Hahrie Han. *Undivided: The Quest for Racial Solidarity in an American Church*. 
 
 #### Week 13: Challenges to the Administrative State
 
-**Mon Nov 23** *(Thanksgiving recess Nov 25–27 — no Monday impact)*
+**Mon Nov 23**
 
+- Fiorina, Morris P. 1977. “The Case of the Vanishing Marginals: The Bureaucracy Did It.” *American Political Science Review* 71 (1): 177–181.
 - Coglianese, Cary. 2022. "Administrative Law: Governing Economic and Social Governance." *Oxford Research Encyclopedia of Economics and Finance*. Available at SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005524](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4005524)
 - Bagley, Nicholas. 2019. "The Procedure Fetish." *Michigan Law Review.* 118(3): 345–401.
 - Howell, William G., and Terry M. Moe. 2023. "The Strongman Presidency and the Two Logics of Presidential Power." *Presidential Studies Quarterly* 53 (2): 145–168.
@@ -372,26 +384,10 @@ Richard Hanania's interview with Nicholas Bagley. "Administrative Procedure and 
 
 - [YouTube](https://www.youtube.com/watch?v=EnKcYz0C-iY)
 
-#### Week 14: Artificial Intelligence, Politics, and Society; Evidence and Methods; Wrap-up
+#### Week 14: Last class - mock conference presentations
 
-**Mon Nov 30** *(last class — classes end Dec 2; mock conference presentations)*
+**Mon Nov 30** *(last class — mock conference presentations)*
 
-- Engstrom, David Freeman, and Daniel E. Ho. 2020. "Algorithmic Accountability in the Administrative State." *Yale Journal on Regulation* 37: 800–854.
-- Narayanan, Arvind, and Sayash Kapoor. 2025. "AI as Normal Technology." *Knight First Amendment Institute*.
-- Burawoy, Michael. 1998. "The Extended Case Method." *Sociological Theory* 16 (1): 4–33.
-- Rao, Vijayendra. 2022. "Can Economics Become More Reflexive?" *World Bank Policy Research Working Paper* 9918.
-- Kim, Jae Yeon, Pamela Herd, Sebastian Jilke, Donald Moynihan, and Kerry Rodden. 2025. "Administrative Checkpoints, Burdens, and Human-Centered Design: Increasing Interview Access to Raise SNAP Participation." *Journal of Policy Analysis and Management*.
-
-*Additional resources*
-
-Daron Acemoglu. *Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity*. Public lecture hosted by the Becker Friedman Institute for Research in Economics, University of Chicago.
-
-- [YouTube](https://www.youtube.com/watch?v=4wpg_qr3-hY)
-
-Vijayendra Rao. *Policy for the People*. Public lecture hosted by the Development Research Group, World Bank (2025).
-
-- [YouTube](https://www.youtube.com/watch?v=_UzbwmOL80o&t=697s)
-
----
+Presenting preliminary findings is acceptable. Each presentation will be 15 minutes long, followed by 5 minutes of Q&A, following the typical APPAM format.
 
 **Final paper (including response letter) due by Fri, Dec 11 at 12:00 PM (ET)**

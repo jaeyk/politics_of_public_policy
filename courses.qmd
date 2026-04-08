@@ -14,4 +14,4 @@ title: "Course Offerings"
 
 ### [Fall 2026 - Doctoral Seminar](courses/fall-2026-doctoral.qmd)
 
-**Politics and Public Policy Theory**
+**PLCY 816 Politics and Public Policy Theory**
