@@ -192,7 +192,7 @@ Paul Pierson and Kathleen Thelen. *Rethinking American Political Economy.* Publi
 
 #### Week 3: The Politics of Policy Implementation
 
-**Mon Aug 31** 
+**Mon Aug 31**
 
 - Mangla, Akshay, and Jae Yeon Kim, "Reconstructing Implementation as Politics," Working Paper.
 - Lindblom, Charles E. 1959. “The Science of ‘Muddling Through.’” Public Administration Review 19 (2): 79–88.
@@ -207,9 +207,13 @@ Ezra Klein's interview with Jennifer Pahlka. "The Book I Wish Every Policymaker 
 - [YouTube](https://www.youtube.com/watch?v=hVXUYQ84Ww4)
 - [Podcast](https://podcasts.apple.com/us/podcast/the-book-i-wish-every-policymaker-would-read/id1548604447?i=1000615839464)
 
-#### Week 4: Political Legitimacy and Policy Delivery
+#### Week 4: No Class: Labor Day Holiday
 
-**Mon Sep 14** 
+**Mon Sep 7** — No class.
+
+#### Week 5: Political Legitimacy and Policy Delivery
+
+**Mon Sep 14**
 
 - Lipset, Seymour Martin. 1959. "Some Social Requisites of Democracy: Economic Development and Political Legitimacy." *American Political Science Review* 53 (1): 69–105.
 - Huntington, Samuel P. 1965. “Political Development and Political Decay.” *World Politics* 17 (3): 386–430.
@@ -223,11 +227,15 @@ Margaret Levi. *Trustworthy Government and Legitimating Beliefs*. Public lecture
 
 - [YouTube](https://www.youtube.com/watch?v=iftJQCJ_7b8&t=355s)
 
+#### Week 6: No Class — Well-Being Day
+
+**Mon Sep 21** — No class.
+
 ---
 
 ### Part Two: What Is the State, How It Works, and Why It Matters
 
-#### Week 5: The Origins and Varieties of State Capacity
+#### Week 7: The Origins and Varieties of State Capacity
 
 **Mon Sep 28** *(research memos 1 & 2 due; chalkboard presentations in class)*
 
@@ -243,7 +251,7 @@ Yascha Mounk's interview with James Scott. "The Perils of State Power." *Persuas
 
 - [Podcast](https://www.persuasion.community/p/scott)
 
-#### Week 6: Institutional Variations and Outcomes
+#### Week 8: Institutional Variations and Outcomes
 
 **Mon Oct 5**
 
@@ -259,7 +267,7 @@ Jamila Michener. *Fragmented Democracy: Medicaid Federalism and Unequal Politics
 
 - [YouTube](https://www.youtube.com/watch?v=Gye6y1U3GUI)
 
-#### Week 7: Bureaucratic Performance, Expertise, and Reputation
+#### Week 9: Bureaucratic Performance, Expertise, and Reputation
 
 **Mon Oct 12** *(University Day — class held; research paper proposal due; chalkboard presentation in class)*
 
@@ -276,9 +284,9 @@ Guo Xu. *Bureaucracy*. Public lecture hosted by VoxDev (2023).
 
 - [YouTube](https://www.youtube.com/watch?v=O6SaoZ9oELw)
 
-#### Week 8: Administrative Burden and Policy Feedback
+#### Week 10: Administrative Burden and Policy Feedback
 
-**Mon Oct 19** *(Fall Break Oct 15–16 — no Monday impact)*
+**Mon Oct 19** 
 
 - Moynihan, Donald, Pamela Herd, and Hope Harvey. 2015. "Administrative Burden: Learning, Psychological, and Compliance Costs in Citizen–State Interactions." *Journal of Public Administration Research and Theory* 25 (1): 43–69.
 - Mettler, Suzanne. 2010. "Reconstituting the Submerged State: The Challenges of Social Policy Reform in the Obama Era." *Perspectives on Politics* 8(3): 803–824.
@@ -296,7 +304,7 @@ Pamela Herd and Donald Moynihan. *Administrative Burden: Policymaking by Other M
 
 ### Part Three: State, Business, and Society
 
-#### Week 9: The Contracting State
+#### Week 11: The Contracting State
 
 **Mon Oct 26** *(peer review of proposal due)*
 
@@ -312,7 +320,7 @@ Paul Light. *The Government-Industrial Complex*. Public lecture hosted by USC Pr
 
 - [YouTube](https://www.youtube.com/watch?v=zBiqFp4Ure8)
 
-#### Week 10: The State and Social Embeddedness
+#### Week 12: The State and Social Embeddedness
 
 **Mon Nov 2**
 
@@ -332,7 +340,7 @@ Akshay Mangla. *Making Bureaucracy Work*. Public lecture hosted by Skoll Centre 
 
 ### Part Four: Political Strategies
 
-#### Week 11: Credit-Taking, Blame-Shifting, and Claim-Making
+#### Week 13: Credit-Taking, Blame-Shifting, and Claim-Making
 
 **Mon Nov 9**
 
@@ -348,7 +356,7 @@ Alisha Holland. *Creative Construction: The Rise and Stall of Mass Infrastructur
 
 - [YouTube](https://www.youtube.com/watch?v=lJgrKfa0kvo)
 
-#### Week 12: Civil Society, Collective Action, and Policy Change
+#### Week 14: Civil Society, Collective Action, and Policy Change
 
 **Mon Nov 16**
 
@@ -368,7 +376,7 @@ Hahrie Han. *Undivided: The Quest for Racial Solidarity in an American Church*. 
 
 ### Part Five: Current Debates, Methods, and Research Frontiers
 
-#### Week 13: Challenges to the Administrative State
+#### Week 15: Challenges to the Administrative State
 
 **Mon Nov 23**
 
@@ -384,7 +392,7 @@ Richard Hanania's interview with Nicholas Bagley. "Administrative Procedure and 
 
 - [YouTube](https://www.youtube.com/watch?v=EnKcYz0C-iY)
 
-#### Week 14: Last class - mock conference presentations
+#### Week 16: Last class - mock conference presentations
 
 **Mon Nov 30** *(last class — mock conference presentations)*
 
