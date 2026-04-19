@@ -12,7 +12,6 @@ website:
         text: Home
       - href: courses.qmd
         text: Courses
-    right:
       - icon: person-circle
         href: https://jaeyk.github.io/
         text: Instructor
