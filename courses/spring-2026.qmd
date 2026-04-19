@@ -220,7 +220,7 @@ The resulting average will then be translated into a letter grade using the fina
 **Due dates:** 
 
 - Assignments are due at the beginning of class on the assigned day. 
-- The final assignment is due by 12:00 PM (ET) on the assigned day.
+- The final assignment is due by 12 midnight (ET) on the assigned day.
 
 **Late work policy:**
 
